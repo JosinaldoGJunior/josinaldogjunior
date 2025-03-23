@@ -24,7 +24,7 @@ I am a **Software Tester & QA Engineer** with over 8 years of experience in soft
   <img src="https://img.shields.io/badge/Allure_Report-FF3366?style=for-the-badge&logo=allure&logoColor=white" alt="Allure" />
   <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber" />
 
-    <!-- Version Control -->
+  <!-- Version Control -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
 
