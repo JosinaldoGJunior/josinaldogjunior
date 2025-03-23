@@ -127,62 +127,63 @@ I am a **Software Tester & QA Engineer** with over 8 years of experience in soft
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Languages and Tools:</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
 
 <p align="center">
   <!-- Programming Languages -->
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
   <!-- Testing Frameworks & Tools -->
-  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit5" width="40" height="40"/> </a>
-  <a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> <img src="https://testng.org/img/testng-logo.png" alt="testng" width="40" height="40"/> </a>
-  <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> <img src="https://rest-assured.io/img/logo-transparent.png" alt="rest-assured" width="40" height="40"/> </a>
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://www.cypress.io/icons/icon-48x48.png" alt="cypress" width="40" height="40"/> </a>
-  <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/> </a>
-  <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://cucumber.io/images/cucumber-logo.svg" alt="cucumber" width="40" height="40"/> </a>
-  <a href="https://wiremock.org/" target="_blank" rel="noreferrer"> <img src="https://wiremock.org/images/wiremock-logo.png" alt="wiremock" width="40" height="40"/> </a>
-  <a href="https://appium.io/" target="_blank" rel="noreferrer"> <img src="https://appium.io/img/appium-logo.png" alt="appium" width="40" height="40"/> </a>
-  <a href="https://robotframework.org/" target="_blank" rel="noreferrer"> <img src="https://robotframework.org/img/RF.svg" alt="robot-framework" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" />
+  <img src="https://img.shields.io/badge/TestNG-00AA88?style=for-the-badge&logo=testng&logoColor=white" alt="TestNG" />
+  <img src="https://img.shields.io/badge/REST_Assured-00AA88?style=for-the-badge&logo=rest-assured&logoColor=white" alt="REST Assured" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber" />
+  <img src="https://img.shields.io/badge/WireMock-00AA88?style=for-the-badge&logo=wiremock&logoColor=white" alt="WireMock" />
+  <img src="https://img.shields.io/badge/Appium-1D1D1D?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" />
+  <img src="https://img.shields.io/badge/Robot_Framework-00AA88?style=for-the-badge&logo=robot-framework&logoColor=white" alt="Robot Framework" />
 
   <!-- CI/CD & DevOps -->
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 
   <!-- Performance Testing -->
-  <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="jmeter" width="40" height="40"/> </a>
-  <a href="https://gatling.io/" target="_blank" rel="noreferrer"> <img src="https://gatling.io/img/gatling-logo.svg" alt="gatling" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" alt="JMeter" />
+  <img src="https://img.shields.io/badge/Gatling-FF9E2A?style=for-the-badge&logo=gatling&logoColor=white" alt="Gatling" />
 
   <!-- API Testing -->
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 
   <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
   <!-- Monitoring & Logging -->
-  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
-  <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 
   <!-- Version Control -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
 
   <!-- Agile & Project Management -->
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a>
-  <a href="https://www.zephyrscale.com/" target="_blank" rel="noreferrer"> <img src="https://www.zephyrscale.com/wp-content/uploads/2021/03/zephyr-scale-logo.svg" alt="zephyr-scale" width="40" height="40"/> </a>
-  <a href="https://www.testrail.com/" target="_blank" rel="noreferrer"> <img src="https://www.testrail.com/wp-content/uploads/2021/04/testrail-logo.svg" alt="testrail" width="40" height="40"/> </a>
-  <a href="https://www.getxray.app/" target="_blank" rel="noreferrer"> <img src="https://www.getxray.app/wp-content/uploads/2021/04/xray-logo.svg" alt="xray" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Zephyr_Squad-00AA88?style=for-the-badge&logo=zephyr&logoColor=white" alt="Zephyr Squad" />
+  <img src="https://img.shields.io/badge/TestRail-00AA88?style=for-the-badge&logo=testrail&logoColor=white" alt="TestRail" />
+  <img src="https://img.shields.io/badge/Xray-00AA88?style=for-the-badge&logo=xray&logoColor=white" alt="Xray" />
 
   <!-- Other Tools -->
-  <a href="https://www.sap.com/" target="_blank" rel="noreferrer"> <img src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg" alt="sap" width="40" height="40"/> </a>
-  <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"> <img src="https://www.salesforce.com/content/dam/web/en_us/www/images/logo-salesforce.svg" alt="salesforce" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP" />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
