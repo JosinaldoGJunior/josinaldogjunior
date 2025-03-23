@@ -54,7 +54,8 @@ I am a **Software Tester & QA Engineer** with over 8 years of experience in soft
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP" />
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
-  <img src="https://img.shields.io/badge/Marketing_Cloud-FF69B4?style=for-the-badge&logo=mailchimp&logoColor=white" alt="Marketing Cloud" />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Marketing Cloud" />
+  
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
