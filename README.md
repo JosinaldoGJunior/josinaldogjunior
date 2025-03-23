@@ -78,3 +78,72 @@ I am a **Software Tester & QA Engineer** with over 8 years of experience in soft
 ## 💡 Favorite Quote
 
 > "Quality is never an accident; it is always the result of intelligent effort." - John Ruskin
+
+
+<!-- Profile Views Counter -->
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJosinaldoGJunior%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=hugo.svg&icon_color=%23FFFFFF&title=Profile+Views+JosinaldoGJunior&edge_flat=false" align="right"/></a>
+<br>
+
+<!-- Animated GIF and Profile Views -->
+<p align="center">
+  <img src="https://i.imgur.com/A6bWGFl.gif" alt="animated gif" />
+  <img src="https://komarev.com/ghpvc/?username=JosinaldoGJunior&style=plastic&color=yellow" align="right" alt="profile views" />
+</p>
+
+<!-- About Me Section -->
+<h2 align="center">🚀 About Me</h2>
+<p align="center">
+  I'm a passionate <strong>Software Tester & QA Engineer</strong> with over 8 years of experience in software quality assurance. I specialize in test automation, performance testing, and ensuring the delivery of high-quality software products. Based in Auckland, New Zealand.
+</p>
+
+<!-- Skills Section -->
+<h2 align="center">🛠️ Skills</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+</p>
+
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JosinaldoGJunior&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosinaldoGJunior&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<!-- Snake Game Contribution Grid -->
+<h2 align="center">🐍 Snake Eating My Contributions</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
+
+<!-- Social Media Links -->
+<h2 align="center">📫 Connect with Me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/josinaldo-junior/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:josinaldo_jr@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/JosinaldoGJunior" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<!-- Favorite Quote -->
+<h2 align="center">💡 Favorite Quote</h2>
+<p align="center">
+  <em>"Quality is never an accident; it is always the result of intelligent effort."</em> - John Ruskin
+</p>
+
+<!-- Footer Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif" alt="footer animation" />
+</p>
