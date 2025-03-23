@@ -67,14 +67,8 @@ I am a **Software Tester & QA Engineer** with over 8 years of experience in soft
 
 <!-- Contacts -->
 ## 📫 How to Reach Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/josinaldo-junior/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:josinaldo_jr@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+- [LinkedIn](https://www.linkedin.com/in/josinaldo-junior/)
+- Email: josinaldo_jr@hotmail.com
 
 
 
@@ -87,8 +81,8 @@ I am a **Software Tester & QA Engineer** with over 8 years of experience in soft
 
 
 <!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
+<h2 align="left">📊 GitHub Stats</h2>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JosinaldoGJunior&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosinaldoGJunior&layout=compact&theme=radical" alt="Top Languages" />
 </p>
