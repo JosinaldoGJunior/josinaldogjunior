@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I am a **Software Tester & QA Engineer** with over 8 years of experience in software quality assurance. My passion is ensuring that software products are delivered with the highest quality, using effective testing strategies and test automation. I am currently based in Auckland, New Zealand.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> 🛠️ Technical Skills </b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Technical Skills </b>
 
 <p align="center">
   <!-- Linguagens -->
@@ -79,6 +79,7 @@ I am a **Software Tester & QA Engineer** with over 8 years of experience in soft
 - [Cypress Testing Examples](https://github.com/JosinaldoGJunior/cypress-examples)
 - [Continuous Integration with Jenkins](https://github.com/JosinaldoGJunior/jenkins-ci)
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
 <!-- GitHub Stats -->
 <h2 align="left">📊 GitHub Stats</h2>
