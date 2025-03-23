@@ -43,12 +43,6 @@ I am a **Software Tester & QA Engineer** with over 8 years of experience in soft
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosinaldoGJunior&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosinaldoGJunior&layout=compact&theme=radical)
-
 ## 🏆 Professional Achievements
 
 - **Agibank**: Increased contract conversions by 10x and raised digital self-contracting share by 12%.
@@ -75,27 +69,6 @@ I am a **Software Tester & QA Engineer** with over 8 years of experience in soft
 - [Cypress Testing Examples](https://github.com/JosinaldoGJunior/cypress-examples)
 - [Continuous Integration with Jenkins](https://github.com/JosinaldoGJunior/jenkins-ci)
 
-## 💡 Favorite Quote
-
-> "Quality is never an accident; it is always the result of intelligent effort." - John Ruskin
-
-
-<!-- Profile Views Counter -->
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJosinaldoGJunior%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=hugo.svg&icon_color=%23FFFFFF&title=Profile+Views+JosinaldoGJunior&edge_flat=false" align="right"/></a>
-<br>
-
-<!-- Animated GIF and Profile Views -->
-<p align="center">
-  <img src="https://i.imgur.com/A6bWGFl.gif" alt="animated gif" />
-  <img src="https://komarev.com/ghpvc/?username=JosinaldoGJunior&style=plastic&color=yellow" align="right" alt="profile views" />
-</p>
-
-<!-- About Me Section -->
-<h2 align="center">🚀 About Me</h2>
-<p align="center">
-  I'm a passionate <strong>Software Tester & QA Engineer</strong> with over 8 years of experience in software quality assurance. I specialize in test automation, performance testing, and ensuring the delivery of high-quality software products. Based in Auckland, New Zealand.
-</p>
-
 <!-- Skills Section -->
 <h2 align="center">🛠️ Skills</h2>
 <p align="center">
@@ -110,13 +83,6 @@ I am a **Software Tester & QA Engineer** with over 8 years of experience in soft
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </p>
 
-
-
-<!-- Snake Game Contribution Grid -->
-<h2 align="center">🐍 Snake Eating My Contributions</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</p>
 
 <!-- Social Media Links -->
 <h2 align="center">📫 Connect with Me</h2>
@@ -136,7 +102,6 @@ I am a **Software Tester & QA Engineer** with over 8 years of experience in soft
 <!-- Animated GIF and Profile Views -->
 <p align="center">
   <img src="https://i.imgur.com/A6bWGFl.gif" alt="animated gif" />
-  <img src="https://komarev.com/ghpvc/?username=JosinaldoGJunior&style=plastic&color=yellow" align="right" alt="profile views" />
 </p>
 
 <!-- GitHub Stats -->
@@ -148,13 +113,6 @@ I am a **Software Tester & QA Engineer** with over 8 years of experience in soft
 
 <!-- Snake Game Contribution Grid -->
 <h2 align="center">🐍 Snake Eating My Contributions</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</p>
-
-
-
-## 🐍 -- **Snake Eat my Contribution** --
 <a href="https://github.com/ThiroshMadhusha">
      <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DNXEMPIRE-1/DNXEMPIRE-1/output/github-snake-darkBlue.svg" />
  
@@ -173,9 +131,3 @@ I am a **Software Tester & QA Engineer** with over 8 years of experience in soft
 
  
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
-
-
-
-
