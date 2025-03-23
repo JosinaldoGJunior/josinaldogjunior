@@ -52,6 +52,9 @@ I am a **Software Tester & QA Engineer** with over 8 years of experience in soft
 
   <!-- Ferramentas Corporativas -->
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Zephyr_Squad-00AA88?style=for-the-badge&logo=zephyr&logoColor=white" alt="Zephyr Squad" />
+  <img src="https://img.shields.io/badge/TestRail-00AA88?style=for-the-badge&logo=testrail&logoColor=white" alt="TestRail" />
+  <img src="https://img.shields.io/badge/Xray-00AA88?style=for-the-badge&logo=xray&logoColor=white" alt="Xray" />
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP" />
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Marketing Cloud" />
