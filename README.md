@@ -68,7 +68,6 @@ I am a **Software Tester & QA Engineer** with over 8 years of experience in soft
 <!-- Contacts -->
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/josinaldo-junior/)
-- Email: josinaldo_jr@hotmail.com
 
 
 
