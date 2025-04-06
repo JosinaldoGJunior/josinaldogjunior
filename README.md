@@ -57,29 +57,13 @@ I am a **Software Tester & QA Engineer** with over 8 years of experience in soft
   <img src="https://img.shields.io/badge/Xray-00AA88?style=for-the-badge&logo=xray&logoColor=white" alt="Xray" />
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP" />
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
-  
-  
 </p>
 
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0371.gif" width="1920"/>
-
-
 
 <!-- Contacts -->
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/josinaldo-junior/)
-
-
-
-<!-- Projects -->
-## 🌟 Featured Projects
-
-- [Test Automation Repository](https://github.com/JosinaldoGJunior/automacao-testes)
-- [Cypress Testing Examples](https://github.com/JosinaldoGJunior/cypress-examples)
-- [Continuous Integration with Jenkins](https://github.com/JosinaldoGJunior/jenkins-ci)
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
 <!-- GitHub Stats -->
 <h2 align="left">📊 GitHub Stats</h2>
